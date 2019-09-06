@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1523589412 source:c:\users\info\desktop\trabajo practico\funciones.c
+
+1523593050 source:c:\users\info\desktop\trabajo practico\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1523502421 c:\users\info\desktop\trabajo practico\funciones.h
+
+1523589412 source:c:\users\info\desktop\trabajo practico 01\funciones.c
+
+1523592973 source:c:\users\info\desktop\trabajo practico 01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1523502421 c:\users\info\desktop\trabajo practico 01\funciones.h
+
+1523635337 source:c:\users\info\desktop\nahu\carrera programacion - utn\prog1-lab1\tp01\trabajo practico(original)\funciones.c
+
+1523638873 source:c:\users\info\desktop\nahu\carrera programacion - utn\prog1-lab1\tp01\trabajo practico(original)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1523635337 c:\users\info\desktop\nahu\carrera programacion - utn\prog1-lab1\tp01\trabajo practico(original)\funciones.h
+
+1567350947 source:c:\users\faby\desktop\nahu\prog - lab i\prog-lab1-2018-\tp_laboratorio_1\trabajo practico\funciones.c
+
+1567350947 source:c:\users\faby\desktop\nahu\prog - lab i\prog-lab1-2018-\tp_laboratorio_1\trabajo practico\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1567350947 c:\users\faby\desktop\nahu\prog - lab i\prog-lab1-2018-\tp_laboratorio_1\trabajo practico\funciones.h
+
+1567744185 source:c:\users\faby\desktop\nahu\prog - lab i\prog-lab1-2018-\tp01\trabajo practico\funciones.c
+
+1567744534 source:c:\users\faby\desktop\nahu\prog - lab i\prog-lab1-2018-\tp01\trabajo practico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
+1567350948 c:\users\faby\desktop\nahu\prog - lab i\prog-lab1-2018-\tp01\trabajo practico\funciones.h
+
+1567744185 source:c:\users\faby\desktop\tp_laboratorio_1\tp_laboratorio_1\funciones.c
+
+1567744817 source:c:\users\faby\desktop\tp_laboratorio_1\tp_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1567350948 c:\users\faby\desktop\tp_laboratorio_1\tp_laboratorio_1\funciones.h
+
