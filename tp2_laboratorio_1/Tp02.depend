@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1569955679 source:c:\users\faby\desktop\nahu\prog - lab i\tp02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"empleados.h"
+
+1569957218 source:c:\users\faby\desktop\nahu\prog - lab i\tp02\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"empleados.h"
+
+1569957218 c:\users\faby\desktop\nahu\prog - lab i\tp02\empleados.h
+
+1570147385 source:c:\users\faby\desktop\nahu\prog - lab i\tp02\tp2_laboratorio_1\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"empleados.h"
+
+1569957218 c:\users\faby\desktop\nahu\prog - lab i\tp02\tp2_laboratorio_1\empleados.h
+
+1570147307 source:c:\users\faby\desktop\nahu\prog - lab i\tp02\tp2_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"empleados.h"
+
+1570147385 source:c:\users\faby\desktop\tp_laboratorio_1\tp2_laboratorio_1\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"empleados.h"
+
+1569957218 c:\users\faby\desktop\tp_laboratorio_1\tp2_laboratorio_1\empleados.h
+
